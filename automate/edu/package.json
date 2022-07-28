@@ -1,0 +1,10 @@
+{
+  "name": "automate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "trisna",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "9.7.0"
+  }
+}

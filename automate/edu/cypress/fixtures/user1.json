@@ -1,0 +1,9 @@
+{
+    "username": "username",
+    "password": "password",
+    "payee": "Apple",
+    "account": "Loan",
+    "amount": "200",
+    "date": "2022-06-10",
+    "description": "payment"
+}

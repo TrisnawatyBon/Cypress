@@ -1,0 +1,17 @@
+{
+  "name": "BDD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "trisna",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "9.7.0"
+  },
+  "devDependencies": {
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "prettier": "^2.7.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }  
+}
